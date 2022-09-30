@@ -1,5 +1,5 @@
 # SIC50
-## Code to reproduce the paper *SIC50: Determination of IC50 by a Vision Transformer and an Optimized Sobel Operator"" 
+## Code to reproduce the paper "SIC50: Determination of IC50 by a Vision Transformer and an Optimized Sobel Operator" 
 
 ### Computing Environment:
 
